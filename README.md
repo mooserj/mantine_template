@@ -1,2 +1,2 @@
-# mantine_template
+# wa_frontend
 Created with CodeSandbox
